@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+
+.ant-page-header {
+  background-color: var(--color-primary);
+}
+
+.ant-page-header-heading-title{
+  color: white;
+}
+
+#content {
+  background-color: var(--color-secondary);
+  margin: 30px;
+  padding: 30px;
+}
+
