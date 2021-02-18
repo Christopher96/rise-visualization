@@ -1,0 +1,1622 @@
+[
+  {
+    "time": "2018-12-31T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 663, "average_length": 486 },
+      { "id": 383, "visit_count": 283, "average_length": 912 },
+      { "id": 384, "visit_count": 409, "average_length": 400 },
+      { "id": 517, "visit_count": 188, "average_length": 328 },
+      { "id": 518, "visit_count": 2832, "average_length": 517 },
+      { "id": 519, "visit_count": 488, "average_length": 501 },
+      { "id": 520, "visit_count": 1252, "average_length": 360 },
+      { "id": 534, "visit_count": 1284, "average_length": 795 },
+      { "id": 536, "visit_count": 1912, "average_length": 340 },
+      { "id": 0, "visit_count": 9312, "average_length": 516 }
+    ]
+  },
+  {
+    "time": "2019-01-07T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 6182, "average_length": 259 },
+      { "id": 383, "visit_count": 1820, "average_length": 661 },
+      { "id": 384, "visit_count": 38377, "average_length": 531 },
+      { "id": 517, "visit_count": 2000, "average_length": 312 },
+      { "id": 518, "visit_count": 3788, "average_length": 497 },
+      { "id": 519, "visit_count": 8000, "average_length": 768 },
+      { "id": 520, "visit_count": 11364, "average_length": 665 },
+      { "id": 534, "visit_count": 6884, "average_length": 972 },
+      { "id": 536, "visit_count": 8812, "average_length": 255 },
+      { "id": 0, "visit_count": 87228, "average_length": 547 }
+    ]
+  },
+  {
+    "time": "2019-01-14T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 6696, "average_length": 301 },
+      { "id": 383, "visit_count": 1944, "average_length": 698 },
+      { "id": 384, "visit_count": 39657, "average_length": 488 },
+      { "id": 517, "visit_count": 3440, "average_length": 299 },
+      { "id": 518, "visit_count": 1174, "average_length": 0 },
+      { "id": 519, "visit_count": 16504, "average_length": 761 },
+      { "id": 520, "visit_count": 13156, "average_length": 766 },
+      { "id": 534, "visit_count": 9520, "average_length": 686 },
+      { "id": 536, "visit_count": 7320, "average_length": 360 },
+      { "id": 0, "visit_count": 99411, "average_length": 484 }
+    ]
+  },
+  {
+    "time": "2019-01-21T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 7359, "average_length": 309 },
+      { "id": 383, "visit_count": 2042, "average_length": 715 },
+      { "id": 384, "visit_count": 47053, "average_length": 437 },
+      { "id": 517, "visit_count": 3704, "average_length": 232 },
+      { "id": 518, "visit_count": 36, "average_length": 0 },
+      { "id": 519, "visit_count": 16212, "average_length": 829 },
+      { "id": 520, "visit_count": 13576, "average_length": 625 },
+      { "id": 534, "visit_count": 10072, "average_length": 662 },
+      { "id": 536, "visit_count": 8668, "average_length": 332 },
+      { "id": 0, "visit_count": 108722, "average_length": 460 }
+    ]
+  },
+  {
+    "time": "2019-01-28T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 6916, "average_length": 360 },
+      { "id": 383, "visit_count": 2715, "average_length": 608 },
+      { "id": 384, "visit_count": 42705, "average_length": 743 },
+      { "id": 517, "visit_count": 3684, "average_length": 704 },
+      { "id": 518, "visit_count": 6372, "average_length": 493 },
+      { "id": 519, "visit_count": 12072, "average_length": 972 },
+      { "id": 520, "visit_count": 11902, "average_length": 93 },
+      { "id": 534, "visit_count": 10222, "average_length": 749 },
+      { "id": 536, "visit_count": 7762, "average_length": 920 },
+      { "id": 0, "visit_count": 104352, "average_length": 627 }
+    ]
+  },
+  {
+    "time": "2019-02-04T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 8069, "average_length": 339 },
+      { "id": 383, "visit_count": 3003, "average_length": 634 },
+      { "id": 384, "visit_count": 39278, "average_length": 456 },
+      { "id": 517, "visit_count": 3612, "average_length": 224 },
+      { "id": 518, "visit_count": 8000, "average_length": 470 },
+      { "id": 519, "visit_count": 13620, "average_length": 1015 },
+      { "id": 520, "visit_count": 12104, "average_length": 789 },
+      { "id": 534, "visit_count": 9168, "average_length": 921 },
+      { "id": 536, "visit_count": 5260, "average_length": 392 },
+      { "id": 0, "visit_count": 102115, "average_length": 582 }
+    ]
+  },
+  {
+    "time": "2019-02-11T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 6982, "average_length": 314 },
+      { "id": 383, "visit_count": 2142, "average_length": 857 },
+      { "id": 384, "visit_count": 12890, "average_length": 454 },
+      { "id": 517, "visit_count": 3140, "average_length": 264 },
+      { "id": 518, "visit_count": 10744, "average_length": 611 },
+      { "id": 519, "visit_count": 13452, "average_length": 1045 },
+      { "id": 520, "visit_count": 12348, "average_length": 656 },
+      { "id": 534, "visit_count": 10716, "average_length": 808 },
+      { "id": 536, "visit_count": 6212, "average_length": 432 },
+      { "id": 0, "visit_count": 78627, "average_length": 604 }
+    ]
+  },
+  {
+    "time": "2019-02-18T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 7186, "average_length": 293 },
+      { "id": 383, "visit_count": 3240, "average_length": 489 },
+      { "id": 384, "visit_count": 7160, "average_length": 442 },
+      { "id": 517, "visit_count": 3600, "average_length": 193 },
+      { "id": 518, "visit_count": 8844, "average_length": 562 },
+      { "id": 519, "visit_count": 13144, "average_length": 972 },
+      { "id": 520, "visit_count": 16604, "average_length": 1008 },
+      { "id": 534, "visit_count": 7240, "average_length": 1033 },
+      { "id": 536, "visit_count": 4172, "average_length": 536 },
+      { "id": 0, "visit_count": 71190, "average_length": 614 }
+    ]
+  },
+  {
+    "time": "2019-02-25T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 5953, "average_length": 342 },
+      { "id": 383, "visit_count": 1939, "average_length": 817 },
+      { "id": 384, "visit_count": 36930, "average_length": 410 },
+      { "id": 517, "visit_count": 3504, "average_length": 227 },
+      { "id": 518, "visit_count": 8012, "average_length": 463 },
+      { "id": 519, "visit_count": 20496, "average_length": 837 },
+      { "id": 520, "visit_count": 16832, "average_length": 685 },
+      { "id": 534, "visit_count": 9844, "average_length": 832 },
+      { "id": 536, "visit_count": 4884, "average_length": 426 },
+      { "id": 0, "visit_count": 108396, "average_length": 560 }
+    ]
+  },
+  {
+    "time": "2019-03-04T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 7479, "average_length": 327 },
+      { "id": 383, "visit_count": 3198, "average_length": 500 },
+      { "id": 384, "visit_count": 40402, "average_length": 414 },
+      { "id": 517, "visit_count": 2480, "average_length": 229 },
+      { "id": 518, "visit_count": 8080, "average_length": 558 },
+      { "id": 519, "visit_count": 14680, "average_length": 973 },
+      { "id": 520, "visit_count": 8448, "average_length": 906 },
+      { "id": 534, "visit_count": 11744, "average_length": 792 },
+      { "id": 536, "visit_count": 5020, "average_length": 588 },
+      { "id": 0, "visit_count": 101532, "average_length": 588 }
+    ]
+  },
+  {
+    "time": "2019-03-11T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 8525, "average_length": 327 },
+      { "id": 383, "visit_count": 2449, "average_length": 599 },
+      { "id": 384, "visit_count": 41271, "average_length": 427 },
+      { "id": 517, "visit_count": 2332, "average_length": 261 },
+      { "id": 518, "visit_count": 8088, "average_length": 520 },
+      { "id": 519, "visit_count": 20152, "average_length": 841 },
+      { "id": 520, "visit_count": 11852, "average_length": 1119 },
+      { "id": 534, "visit_count": 10936, "average_length": 768 },
+      { "id": 536, "visit_count": 5232, "average_length": 501 },
+      { "id": 0, "visit_count": 110839, "average_length": 596 }
+    ]
+  },
+  {
+    "time": "2019-03-18T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 7036, "average_length": 336 },
+      { "id": 383, "visit_count": 2488, "average_length": 621 },
+      { "id": 384, "visit_count": 39613, "average_length": 427 },
+      { "id": 517, "visit_count": 3012, "average_length": 190 },
+      { "id": 518, "visit_count": 11076, "average_length": 557 },
+      { "id": 519, "visit_count": 14596, "average_length": 1076 },
+      { "id": 520, "visit_count": 11856, "average_length": 719 },
+      { "id": 534, "visit_count": 9772, "average_length": 941 },
+      { "id": 536, "visit_count": 4628, "average_length": 533 },
+      { "id": 0, "visit_count": 104078, "average_length": 600 }
+    ]
+  },
+  {
+    "time": "2019-03-25T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 5508, "average_length": 382 },
+      { "id": 383, "visit_count": 2152, "average_length": 692 },
+      { "id": 384, "visit_count": 38873, "average_length": 630 },
+      { "id": 517, "visit_count": 2874, "average_length": 175 },
+      { "id": 518, "visit_count": 12656, "average_length": -1042 },
+      { "id": 519, "visit_count": 22136, "average_length": 930 },
+      { "id": 520, "visit_count": 11822, "average_length": -3446 },
+      { "id": 534, "visit_count": 9278, "average_length": 4416 },
+      { "id": 536, "visit_count": 4996, "average_length": 842 },
+      { "id": 0, "visit_count": 110296, "average_length": 398 }
+    ]
+  },
+  {
+    "time": "2019-04-01T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 12230, "average_length": 237 },
+      { "id": 383, "visit_count": 3866, "average_length": 480 },
+      { "id": 384, "visit_count": 40982, "average_length": 356 },
+      { "id": 517, "visit_count": 4524, "average_length": 271 },
+      { "id": 518, "visit_count": 10904, "average_length": 473 },
+      { "id": 519, "visit_count": 19000, "average_length": 710 },
+      { "id": 520, "visit_count": 12332, "average_length": 755 },
+      { "id": 534, "visit_count": 8924, "average_length": 713 },
+      { "id": 536, "visit_count": 7578, "average_length": 393 },
+      { "id": 0, "visit_count": 120341, "average_length": 487 }
+    ]
+  },
+  {
+    "time": "2019-04-08T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 8031, "average_length": 335 },
+      { "id": 383, "visit_count": 2196, "average_length": 708 },
+      { "id": 384, "visit_count": 41902, "average_length": 421 },
+      { "id": 517, "visit_count": 6416, "average_length": 287 },
+      { "id": 518, "visit_count": 10764, "average_length": 595 },
+      { "id": 519, "visit_count": 24872, "average_length": 1116 },
+      { "id": 520, "visit_count": 11104, "average_length": 843 },
+      { "id": 534, "visit_count": 11976, "average_length": 677 },
+      { "id": 536, "visit_count": 5404, "average_length": 607 },
+      { "id": 0, "visit_count": 122665, "average_length": 621 }
+    ]
+  },
+  {
+    "time": "2019-04-15T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 3926, "average_length": 437 },
+      { "id": 383, "visit_count": 2171, "average_length": 752 },
+      { "id": 384, "visit_count": 48046, "average_length": 463 },
+      { "id": 517, "visit_count": 3700, "average_length": 421 },
+      { "id": 518, "visit_count": 7324, "average_length": 671 },
+      { "id": 519, "visit_count": 13953, "average_length": 1109 },
+      { "id": 520, "visit_count": 8916, "average_length": 731 },
+      { "id": 534, "visit_count": 6927, "average_length": 919 },
+      { "id": 536, "visit_count": 5292, "average_length": 620 },
+      { "id": 0, "visit_count": 100256, "average_length": 680 }
+    ]
+  },
+  {
+    "time": "2019-04-22T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 7738, "average_length": 275 },
+      { "id": 383, "visit_count": 3902, "average_length": 656 },
+      { "id": 384, "visit_count": 49037, "average_length": 428 },
+      { "id": 517, "visit_count": 7764, "average_length": 254 },
+      { "id": 518, "visit_count": 12212, "average_length": 568 },
+      { "id": 519, "visit_count": 14106, "average_length": 926 },
+      { "id": 520, "visit_count": 8380, "average_length": 837 },
+      { "id": 534, "visit_count": 9869, "average_length": 933 },
+      { "id": 536, "visit_count": 6154, "average_length": 514 },
+      { "id": 0, "visit_count": 119163, "average_length": 599 }
+    ]
+  },
+  {
+    "time": "2019-04-29T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 7404, "average_length": 252 },
+      { "id": 383, "visit_count": 3390, "average_length": 791 },
+      { "id": 384, "visit_count": 39684, "average_length": 507 },
+      { "id": 517, "visit_count": 5660, "average_length": 244 },
+      { "id": 518, "visit_count": 11168, "average_length": 695 },
+      { "id": 519, "visit_count": 18196, "average_length": 872 },
+      { "id": 520, "visit_count": 9152, "average_length": 765 },
+      { "id": 534, "visit_count": 7613, "average_length": 924 },
+      { "id": 536, "visit_count": 7888, "average_length": 463 },
+      { "id": 0, "visit_count": 110156, "average_length": 612 }
+    ]
+  },
+  {
+    "time": "2019-05-06T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 8527, "average_length": 321 },
+      { "id": 383, "visit_count": 4613, "average_length": 739 },
+      { "id": 384, "visit_count": 57639, "average_length": 448 },
+      { "id": 517, "visit_count": 7972, "average_length": 318 },
+      { "id": 518, "visit_count": 10624, "average_length": 604 },
+      { "id": 519, "visit_count": 32236, "average_length": 1013 },
+      { "id": 520, "visit_count": 11728, "average_length": 818 },
+      { "id": 534, "visit_count": 9792, "average_length": 1125 },
+      { "id": 536, "visit_count": 8568, "average_length": 387 },
+      { "id": 0, "visit_count": 151700, "average_length": 642 }
+    ]
+  },
+  {
+    "time": "2019-05-13T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 9967, "average_length": 311 },
+      { "id": 383, "visit_count": 4177, "average_length": 524 },
+      { "id": 384, "visit_count": 51399, "average_length": 470 },
+      { "id": 517, "visit_count": 4884, "average_length": 334 },
+      { "id": 518, "visit_count": 10432, "average_length": 649 },
+      { "id": 519, "visit_count": 22264, "average_length": 1095 },
+      { "id": 520, "visit_count": 13680, "average_length": 870 },
+      { "id": 534, "visit_count": 11694, "average_length": 1009 },
+      { "id": 536, "visit_count": 5628, "average_length": 396 },
+      { "id": 0, "visit_count": 134126, "average_length": 629 }
+    ]
+  },
+  {
+    "time": "2019-05-20T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 11336, "average_length": 292 },
+      { "id": 383, "visit_count": 3567, "average_length": 547 },
+      { "id": 384, "visit_count": 55905, "average_length": 453 },
+      { "id": 517, "visit_count": 2680, "average_length": 315 },
+      { "id": 518, "visit_count": 10568, "average_length": 661 },
+      { "id": 519, "visit_count": 19712, "average_length": 1135 },
+      { "id": 520, "visit_count": 11120, "average_length": 791 },
+      { "id": 534, "visit_count": 14124, "average_length": 1122 },
+      { "id": 536, "visit_count": 7236, "average_length": 463 },
+      { "id": 0, "visit_count": 136250, "average_length": 642 }
+    ]
+  },
+  {
+    "time": "2019-05-27T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 5310, "average_length": 272 },
+      { "id": 383, "visit_count": 2298, "average_length": 569 },
+      { "id": 384, "visit_count": 35179, "average_length": 496 },
+      { "id": 517, "visit_count": 1484, "average_length": 313 },
+      { "id": 518, "visit_count": 6244, "average_length": 809 },
+      { "id": 519, "visit_count": 13976, "average_length": 974 },
+      { "id": 520, "visit_count": 9824, "average_length": 1140 },
+      { "id": 534, "visit_count": 6692, "average_length": 1148 },
+      { "id": 536, "visit_count": 4304, "average_length": 508 },
+      { "id": 0, "visit_count": 85312, "average_length": 692 }
+    ]
+  },
+  {
+    "time": "2019-06-03T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 3997, "average_length": 340 },
+      { "id": 383, "visit_count": 1642, "average_length": 462 },
+      { "id": 384, "visit_count": 29149, "average_length": 440 },
+      { "id": 517, "visit_count": 1460, "average_length": 313 },
+      { "id": 518, "visit_count": 5180, "average_length": 767 },
+      { "id": 519, "visit_count": 10648, "average_length": 961 },
+      { "id": 520, "visit_count": 8840, "average_length": 762 },
+      { "id": 534, "visit_count": 4672, "average_length": 867 },
+      { "id": 536, "visit_count": 3512, "average_length": 430 },
+      { "id": 0, "visit_count": 69101, "average_length": 594 }
+    ]
+  },
+  {
+    "time": "2019-06-10T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 2463, "average_length": 415 },
+      { "id": 383, "visit_count": 2413, "average_length": 695 },
+      { "id": 384, "visit_count": 9799, "average_length": 592 },
+      { "id": 517, "visit_count": 860, "average_length": 340 },
+      { "id": 518, "visit_count": 5640, "average_length": 619 },
+      { "id": 519, "visit_count": 640, "average_length": 1012 },
+      { "id": 520, "visit_count": 7544, "average_length": 741 },
+      { "id": 534, "visit_count": 2996, "average_length": 671 },
+      { "id": 536, "visit_count": 3300, "average_length": 602 },
+      { "id": 0, "visit_count": 35655, "average_length": 632 }
+    ]
+  },
+  {
+    "time": "2019-06-17T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1739, "average_length": 401 },
+      { "id": 383, "visit_count": 1842, "average_length": 576 },
+      { "id": 384, "visit_count": 4893, "average_length": 567 },
+      { "id": 517, "visit_count": 556, "average_length": 288 },
+      { "id": 518, "visit_count": 3556, "average_length": 710 },
+      { "id": 519, "visit_count": 212, "average_length": 512 },
+      { "id": 520, "visit_count": 6564, "average_length": 673 },
+      { "id": 534, "visit_count": 1680, "average_length": 727 },
+      { "id": 536, "visit_count": 2676, "average_length": 307 },
+      { "id": 0, "visit_count": 23719, "average_length": 529 }
+    ]
+  },
+  {
+    "time": "2019-06-24T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1534, "average_length": 586 },
+      { "id": 383, "visit_count": 1817, "average_length": 553 },
+      { "id": 384, "visit_count": 229, "average_length": 1385 },
+      { "id": 517, "visit_count": 556, "average_length": 192 },
+      { "id": 518, "visit_count": 4344, "average_length": 741 },
+      { "id": 519, "visit_count": 296, "average_length": 520 },
+      { "id": 520, "visit_count": 6648, "average_length": 758 },
+      { "id": 534, "visit_count": 2920, "average_length": 693 },
+      { "id": 536, "visit_count": 1836, "average_length": 417 },
+      { "id": 0, "visit_count": 20181, "average_length": 649 }
+    ]
+  },
+  {
+    "time": "2019-07-01T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 0, "average_length": 0 },
+      { "id": 383, "visit_count": 1407, "average_length": 816 },
+      { "id": 384, "visit_count": 173, "average_length": 1741 },
+      { "id": 517, "visit_count": 476, "average_length": 342 },
+      { "id": 518, "visit_count": 3316, "average_length": 779 },
+      { "id": 519, "visit_count": 100, "average_length": 1027 },
+      { "id": 520, "visit_count": 4664, "average_length": 943 },
+      { "id": 534, "visit_count": 1528, "average_length": 275 },
+      { "id": 536, "visit_count": 72, "average_length": 45 },
+      { "id": 0, "visit_count": 11737, "average_length": 663 }
+    ]
+  },
+  {
+    "time": "2019-07-08T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 0, "average_length": 0 },
+      { "id": 383, "visit_count": 51, "average_length": 100 },
+      { "id": 384, "visit_count": 161, "average_length": 853 },
+      { "id": 517, "visit_count": 20, "average_length": 42 },
+      { "id": 518, "visit_count": 4224, "average_length": 678 },
+      { "id": 519, "visit_count": 96, "average_length": 163 },
+      { "id": 520, "visit_count": 3388, "average_length": 1033 },
+      { "id": 534, "visit_count": 76, "average_length": 805 },
+      { "id": 536, "visit_count": 32, "average_length": 1133 },
+      { "id": 0, "visit_count": 8048, "average_length": 534 }
+    ]
+  },
+  {
+    "time": "2019-07-15T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 177, "average_length": 1010 },
+      { "id": 383, "visit_count": 1332, "average_length": 1212 },
+      { "id": 384, "visit_count": 117, "average_length": 199 },
+      { "id": 517, "visit_count": 80, "average_length": 693 },
+      { "id": 518, "visit_count": 3892, "average_length": 1526 },
+      { "id": 519, "visit_count": 178, "average_length": 253 },
+      { "id": 520, "visit_count": 3160, "average_length": 1842 },
+      { "id": 534, "visit_count": 116, "average_length": 530 },
+      { "id": 536, "visit_count": 68, "average_length": 528 },
+      { "id": 0, "visit_count": 9120, "average_length": 866 }
+    ]
+  },
+  {
+    "time": "2019-07-22T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 0, "average_length": 0 },
+      { "id": 383, "visit_count": 97, "average_length": 626 },
+      { "id": 384, "visit_count": 86, "average_length": 67 },
+      { "id": 517, "visit_count": 72, "average_length": 427 },
+      { "id": 518, "visit_count": 2496, "average_length": 1043 },
+      { "id": 519, "visit_count": 136, "average_length": 259 },
+      { "id": 520, "visit_count": 2224, "average_length": 759 },
+      { "id": 534, "visit_count": 88, "average_length": 787 },
+      { "id": 536, "visit_count": 20, "average_length": 319 },
+      { "id": 0, "visit_count": 5220, "average_length": 476 }
+    ]
+  },
+  {
+    "time": "2019-07-29T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 541, "average_length": 1137 },
+      { "id": 383, "visit_count": 65, "average_length": 1110 },
+      { "id": 384, "visit_count": 74, "average_length": 144 },
+      { "id": 517, "visit_count": 24, "average_length": 113 },
+      { "id": 518, "visit_count": 2564, "average_length": 904 },
+      { "id": 519, "visit_count": 148, "average_length": 119 },
+      { "id": 520, "visit_count": 2544, "average_length": 700 },
+      { "id": 534, "visit_count": 240, "average_length": 5859 },
+      { "id": 536, "visit_count": 56, "average_length": 30 },
+      { "id": 0, "visit_count": 6257, "average_length": 1124 }
+    ]
+  },
+  {
+    "time": "2019-08-05T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1236, "average_length": 766 },
+      { "id": 383, "visit_count": 1551, "average_length": 1030 },
+      { "id": 384, "visit_count": 167, "average_length": 1001 },
+      { "id": 517, "visit_count": 96, "average_length": 802 },
+      { "id": 518, "visit_count": 3412, "average_length": 841 },
+      { "id": 519, "visit_count": 624, "average_length": 1224 },
+      { "id": 520, "visit_count": 4644, "average_length": 999 },
+      { "id": 534, "visit_count": 592, "average_length": 800 },
+      { "id": 536, "visit_count": 1244, "average_length": 393 },
+      { "id": 0, "visit_count": 13568, "average_length": 873 }
+    ]
+  },
+  {
+    "time": "2019-08-12T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1555, "average_length": 456 },
+      { "id": 383, "visit_count": 2637, "average_length": 736 },
+      { "id": 384, "visit_count": 5446, "average_length": 515 },
+      { "id": 517, "visit_count": 2208, "average_length": 425 },
+      { "id": 518, "visit_count": 6304, "average_length": 708 },
+      { "id": 519, "visit_count": 1660, "average_length": 1538 },
+      { "id": 520, "visit_count": 7140, "average_length": 774 },
+      { "id": 534, "visit_count": 580, "average_length": 690 },
+      { "id": 536, "visit_count": 2584, "average_length": 348 },
+      { "id": 0, "visit_count": 30115, "average_length": 688 }
+    ]
+  },
+  {
+    "time": "2019-08-19T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 3160, "average_length": 409 },
+      { "id": 383, "visit_count": 2552, "average_length": 788 },
+      { "id": 384, "visit_count": 8979, "average_length": 458 },
+      { "id": 517, "visit_count": 1076, "average_length": 290 },
+      { "id": 518, "visit_count": 7216, "average_length": 746 },
+      { "id": 519, "visit_count": 15580, "average_length": 922 },
+      { "id": 520, "visit_count": 10356, "average_length": 724 },
+      { "id": 534, "visit_count": 764, "average_length": 764 },
+      { "id": 536, "visit_count": 2928, "average_length": 371 },
+      { "id": 0, "visit_count": 52612, "average_length": 608 }
+    ]
+  },
+  {
+    "time": "2019-08-26T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 5219, "average_length": 381 },
+      { "id": 383, "visit_count": 2601, "average_length": 760 },
+      { "id": 384, "visit_count": 11948, "average_length": 460 },
+      { "id": 517, "visit_count": 3184, "average_length": 234 },
+      { "id": 518, "visit_count": 5860, "average_length": 674 },
+      { "id": 519, "visit_count": 17564, "average_length": 1012 },
+      { "id": 520, "visit_count": 10808, "average_length": 713 },
+      { "id": 534, "visit_count": 2248, "average_length": 674 },
+      { "id": 536, "visit_count": 4412, "average_length": 356 },
+      { "id": 0, "visit_count": 63844, "average_length": 585 }
+    ]
+  },
+  {
+    "time": "2019-09-02T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 9443, "average_length": 276 },
+      { "id": 383, "visit_count": 197, "average_length": 798 },
+      { "id": 384, "visit_count": 47475, "average_length": 500 },
+      { "id": 517, "visit_count": 2736, "average_length": 169 },
+      { "id": 518, "visit_count": 1824, "average_length": 948 },
+      { "id": 519, "visit_count": 15232, "average_length": 1051 },
+      { "id": 520, "visit_count": 15812, "average_length": 807 },
+      { "id": 534, "visit_count": 11288, "average_length": 396 },
+      { "id": 536, "visit_count": 5264, "average_length": 240 },
+      { "id": 0, "visit_count": 109272, "average_length": 576 }
+    ]
+  },
+  {
+    "time": "2019-09-09T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 9067, "average_length": 329 },
+      { "id": 383, "visit_count": 1720, "average_length": 928 },
+      { "id": 384, "visit_count": 49444, "average_length": 465 },
+      { "id": 517, "visit_count": 2572, "average_length": 175 },
+      { "id": 518, "visit_count": 10188, "average_length": 722 },
+      { "id": 519, "visit_count": 14464, "average_length": 1055 },
+      { "id": 520, "visit_count": 17972, "average_length": 908 },
+      { "id": 534, "visit_count": 9080, "average_length": 602 },
+      { "id": 536, "visit_count": 5460, "average_length": 266 },
+      { "id": 0, "visit_count": 119967, "average_length": 606 }
+    ]
+  },
+  {
+    "time": "2019-09-16T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 8848, "average_length": 354 },
+      { "id": 383, "visit_count": 1625, "average_length": 970 },
+      { "id": 384, "visit_count": 34465, "average_length": 396 },
+      { "id": 517, "visit_count": 7636, "average_length": 320 },
+      { "id": 518, "visit_count": 6612, "average_length": 705 },
+      { "id": 519, "visit_count": 23200, "average_length": 1074 },
+      { "id": 520, "visit_count": 16064, "average_length": 949 },
+      { "id": 534, "visit_count": 10036, "average_length": 660 },
+      { "id": 536, "visit_count": 6488, "average_length": 283 },
+      { "id": 0, "visit_count": 114975, "average_length": 635 }
+    ]
+  },
+  {
+    "time": "2019-09-23T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 11153, "average_length": 345 },
+      { "id": 383, "visit_count": 2230, "average_length": 970 },
+      { "id": 384, "visit_count": 28559, "average_length": 396 },
+      { "id": 517, "visit_count": 10572, "average_length": 295 },
+      { "id": 518, "visit_count": 3772, "average_length": 924 },
+      { "id": 519, "visit_count": 31240, "average_length": 1007 },
+      { "id": 520, "visit_count": 16796, "average_length": 1122 },
+      { "id": 534, "visit_count": 10728, "average_length": 718 },
+      { "id": 536, "visit_count": 6048, "average_length": 296 },
+      { "id": 0, "visit_count": 121099, "average_length": 675 }
+    ]
+  },
+  {
+    "time": "2019-09-30T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 9088, "average_length": 293 },
+      { "id": 383, "visit_count": 2213, "average_length": 838 },
+      { "id": 384, "visit_count": 24858, "average_length": 386 },
+      { "id": 517, "visit_count": 11312, "average_length": 314 },
+      { "id": 518, "visit_count": 6656, "average_length": 796 },
+      { "id": 519, "visit_count": 31552, "average_length": 1055 },
+      { "id": 520, "visit_count": 20008, "average_length": 965 },
+      { "id": 534, "visit_count": 17328, "average_length": 535 },
+      { "id": 536, "visit_count": 7536, "average_length": 352 },
+      { "id": 0, "visit_count": 130552, "average_length": 615 }
+    ]
+  },
+  {
+    "time": "2019-10-07T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 11303, "average_length": 354 },
+      { "id": 383, "visit_count": 2293, "average_length": 972 },
+      { "id": 384, "visit_count": 42625, "average_length": 452 },
+      { "id": 517, "visit_count": 9100, "average_length": 357 },
+      { "id": 518, "visit_count": 7140, "average_length": 808 },
+      { "id": 519, "visit_count": 23060, "average_length": 998 },
+      { "id": 520, "visit_count": 19288, "average_length": 1123 },
+      { "id": 534, "visit_count": 12060, "average_length": 715 },
+      { "id": 536, "visit_count": 9164, "average_length": 238 },
+      { "id": 0, "visit_count": 136034, "average_length": 669 }
+    ]
+  },
+  {
+    "time": "2019-10-14T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 9418, "average_length": 336 },
+      { "id": 383, "visit_count": 2178, "average_length": 1014 },
+      { "id": 384, "visit_count": 45084, "average_length": 465 },
+      { "id": 517, "visit_count": 5908, "average_length": 604 },
+      { "id": 518, "visit_count": 2116, "average_length": 919 },
+      { "id": 519, "visit_count": 24720, "average_length": 920 },
+      { "id": 520, "visit_count": 17100, "average_length": 1186 },
+      { "id": 534, "visit_count": 11444, "average_length": 856 },
+      { "id": 536, "visit_count": 6884, "average_length": 363 },
+      { "id": 0, "visit_count": 124853, "average_length": 740 }
+    ]
+  },
+  {
+    "time": "2019-10-21T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 10995, "average_length": 320 },
+      { "id": 383, "visit_count": 2095, "average_length": 1061 },
+      { "id": 384, "visit_count": 44600, "average_length": 527 },
+      { "id": 517, "visit_count": 4104, "average_length": 537 },
+      { "id": 518, "visit_count": 6668, "average_length": 850 },
+      { "id": 519, "visit_count": 21200, "average_length": 1016 },
+      { "id": 520, "visit_count": 16900, "average_length": 1208 },
+      { "id": 534, "visit_count": 11864, "average_length": 984 },
+      { "id": 536, "visit_count": 6448, "average_length": 470 },
+      { "id": 0, "visit_count": 124875, "average_length": 774 }
+    ]
+  },
+  {
+    "time": "2019-10-28T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 6565, "average_length": 388 },
+      { "id": 383, "visit_count": 1976, "average_length": 908 },
+      { "id": 384, "visit_count": 41004, "average_length": 502 },
+      { "id": 517, "visit_count": 9424, "average_length": 261 },
+      { "id": 518, "visit_count": 11236, "average_length": 674 },
+      { "id": 519, "visit_count": 20732, "average_length": 1058 },
+      { "id": 520, "visit_count": 12752, "average_length": 1076 },
+      { "id": 534, "visit_count": 11264, "average_length": 967 },
+      { "id": 536, "visit_count": 5700, "average_length": 561 },
+      { "id": 0, "visit_count": 120654, "average_length": 710 }
+    ]
+  },
+  {
+    "time": "2019-11-04T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 8985, "average_length": 342 },
+      { "id": 383, "visit_count": 2266, "average_length": 941 },
+      { "id": 384, "visit_count": 38328, "average_length": 457 },
+      { "id": 517, "visit_count": 16944, "average_length": 213 },
+      { "id": 518, "visit_count": 11584, "average_length": 662 },
+      { "id": 519, "visit_count": 25076, "average_length": 844 },
+      { "id": 520, "visit_count": 20868, "average_length": 1109 },
+      { "id": 534, "visit_count": 12644, "average_length": 796 },
+      { "id": 536, "visit_count": 9008, "average_length": 513 },
+      { "id": 0, "visit_count": 145704, "average_length": 653 }
+    ]
+  },
+  {
+    "time": "2019-11-11T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 9007, "average_length": 414 },
+      { "id": 383, "visit_count": 2149, "average_length": 1047 },
+      { "id": 384, "visit_count": 35179, "average_length": 422 },
+      { "id": 517, "visit_count": 12224, "average_length": 234 },
+      { "id": 518, "visit_count": 12168, "average_length": 745 },
+      { "id": 519, "visit_count": 26920, "average_length": 879 },
+      { "id": 520, "visit_count": 17824, "average_length": 1102 },
+      { "id": 534, "visit_count": 13488, "average_length": 669 },
+      { "id": 536, "visit_count": 14356, "average_length": 378 },
+      { "id": 0, "visit_count": 143316, "average_length": 654 }
+    ]
+  },
+  {
+    "time": "2019-11-18T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 9876, "average_length": 388 },
+      { "id": 383, "visit_count": 2798, "average_length": 844 },
+      { "id": 384, "visit_count": 32590, "average_length": 426 },
+      { "id": 517, "visit_count": 11304, "average_length": 250 },
+      { "id": 518, "visit_count": 11348, "average_length": 698 },
+      { "id": 519, "visit_count": 25228, "average_length": 976 },
+      { "id": 520, "visit_count": 17812, "average_length": 982 },
+      { "id": 534, "visit_count": 14632, "average_length": 827 },
+      { "id": 536, "visit_count": 7440, "average_length": 589 },
+      { "id": 0, "visit_count": 133028, "average_length": 665 }
+    ]
+  },
+  {
+    "time": "2019-11-25T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 9182, "average_length": 377 },
+      { "id": 383, "visit_count": 2108, "average_length": 1101 },
+      { "id": 384, "visit_count": 33200, "average_length": 435 },
+      { "id": 517, "visit_count": 12032, "average_length": 281 },
+      { "id": 518, "visit_count": 11004, "average_length": 797 },
+      { "id": 519, "visit_count": 26568, "average_length": 1083 },
+      { "id": 520, "visit_count": 18296, "average_length": 1062 },
+      { "id": 534, "visit_count": 15364, "average_length": 730 },
+      { "id": 536, "visit_count": 5932, "average_length": 478 },
+      { "id": 0, "visit_count": 133687, "average_length": 705 }
+    ]
+  },
+  {
+    "time": "2019-12-02T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 8737, "average_length": 372 },
+      { "id": 383, "visit_count": 3433, "average_length": 720 },
+      { "id": 384, "visit_count": 30615, "average_length": 420 },
+      { "id": 517, "visit_count": 12352, "average_length": 331 },
+      { "id": 518, "visit_count": 11668, "average_length": 787 },
+      { "id": 519, "visit_count": 23484, "average_length": 1121 },
+      { "id": 520, "visit_count": 18404, "average_length": 1246 },
+      { "id": 534, "visit_count": 12112, "average_length": 855 },
+      { "id": 536, "visit_count": 7136, "average_length": 450 },
+      { "id": 0, "visit_count": 127942, "average_length": 700 }
+    ]
+  },
+  {
+    "time": "2019-12-09T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 7070, "average_length": 375 },
+      { "id": 383, "visit_count": 2347, "average_length": 786 },
+      { "id": 384, "visit_count": 36210, "average_length": 425 },
+      { "id": 517, "visit_count": 14252, "average_length": 432 },
+      { "id": 518, "visit_count": 8916, "average_length": 839 },
+      { "id": 519, "visit_count": 28704, "average_length": 1060 },
+      { "id": 520, "visit_count": 19556, "average_length": 1261 },
+      { "id": 534, "visit_count": 14156, "average_length": 804 },
+      { "id": 536, "visit_count": 6536, "average_length": 635 },
+      { "id": 0, "visit_count": 137748, "average_length": 735 }
+    ]
+  },
+  {
+    "time": "2019-12-16T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 7121, "average_length": 325 },
+      { "id": 383, "visit_count": 1495, "average_length": 1006 },
+      { "id": 384, "visit_count": 51933, "average_length": 396 },
+      { "id": 517, "visit_count": 3756, "average_length": 474 },
+      { "id": 518, "visit_count": 6212, "average_length": 829 },
+      { "id": 519, "visit_count": 11048, "average_length": 890 },
+      { "id": 520, "visit_count": 14640, "average_length": 1013 },
+      { "id": 534, "visit_count": 11260, "average_length": 858 },
+      { "id": 536, "visit_count": 7908, "average_length": 475 },
+      { "id": 0, "visit_count": 115375, "average_length": 696 }
+    ]
+  },
+  {
+    "time": "2019-12-23T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 162, "average_length": 189 },
+      { "id": 383, "visit_count": 73, "average_length": 1660 },
+      { "id": 384, "visit_count": 173, "average_length": 278 },
+      { "id": 517, "visit_count": 36, "average_length": 30 },
+      { "id": 518, "visit_count": 1532, "average_length": 1202 },
+      { "id": 519, "visit_count": 236, "average_length": 270 },
+      { "id": 520, "visit_count": 1140, "average_length": 1503 },
+      { "id": 534, "visit_count": 416, "average_length": 1009 },
+      { "id": 536, "visit_count": 216, "average_length": 1729 },
+      { "id": 0, "visit_count": 3985, "average_length": 874 }
+    ]
+  },
+  {
+    "time": "2019-12-30T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 271, "average_length": 129 },
+      { "id": 383, "visit_count": 129, "average_length": 605 },
+      { "id": 384, "visit_count": 161, "average_length": 424 },
+      { "id": 517, "visit_count": 384, "average_length": 56 },
+      { "id": 518, "visit_count": 3440, "average_length": 733 },
+      { "id": 519, "visit_count": 684, "average_length": 799 },
+      { "id": 520, "visit_count": 2636, "average_length": 1862 },
+      { "id": 534, "visit_count": 1380, "average_length": 1168 },
+      { "id": 536, "visit_count": 816, "average_length": 648 },
+      { "id": 0, "visit_count": 9902, "average_length": 714 }
+    ]
+  },
+  {
+    "time": "2020-01-06T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 5741, "average_length": 391 },
+      { "id": 383, "visit_count": 1110, "average_length": 932 },
+      { "id": 384, "visit_count": 27895, "average_length": 436 },
+      { "id": 517, "visit_count": 2960, "average_length": 282 },
+      { "id": 518, "visit_count": 6892, "average_length": 737 },
+      { "id": 519, "visit_count": 6740, "average_length": 1207 },
+      { "id": 520, "visit_count": 11092, "average_length": 847 },
+      { "id": 534, "visit_count": 4716, "average_length": 630 },
+      { "id": 536, "visit_count": 4936, "average_length": 503 },
+      { "id": 0, "visit_count": 72083, "average_length": 663 }
+    ]
+  },
+  {
+    "time": "2020-01-13T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 7470, "average_length": 365 },
+      { "id": 383, "visit_count": 1837, "average_length": 965 },
+      { "id": 384, "visit_count": 33161, "average_length": 460 },
+      { "id": 517, "visit_count": 6708, "average_length": 263 },
+      { "id": 518, "visit_count": 10272, "average_length": 705 },
+      { "id": 519, "visit_count": 22812, "average_length": 1012 },
+      { "id": 520, "visit_count": 14052, "average_length": 741 },
+      { "id": 534, "visit_count": 10744, "average_length": 916 },
+      { "id": 536, "visit_count": 5160, "average_length": 509 },
+      { "id": 0, "visit_count": 112217, "average_length": 659 }
+    ]
+  },
+  {
+    "time": "2020-01-20T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 9392, "average_length": 339 },
+      { "id": 383, "visit_count": 1588, "average_length": 1006 },
+      { "id": 384, "visit_count": 39222, "average_length": 376 },
+      { "id": 517, "visit_count": 6664, "average_length": 230 },
+      { "id": 518, "visit_count": 11108, "average_length": 714 },
+      { "id": 519, "visit_count": 19044, "average_length": 958 },
+      { "id": 520, "visit_count": 15336, "average_length": 894 },
+      { "id": 534, "visit_count": 11900, "average_length": 640 },
+      { "id": 536, "visit_count": 5928, "average_length": 381 },
+      { "id": 0, "visit_count": 120183, "average_length": 615 }
+    ]
+  },
+  {
+    "time": "2020-01-27T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 9163, "average_length": 363 },
+      { "id": 383, "visit_count": 1773, "average_length": 1043 },
+      { "id": 384, "visit_count": 36129, "average_length": 390 },
+      { "id": 517, "visit_count": 6708, "average_length": 231 },
+      { "id": 518, "visit_count": 12544, "average_length": 744 },
+      { "id": 519, "visit_count": 17760, "average_length": 1090 },
+      { "id": 520, "visit_count": 7028, "average_length": 994 },
+      { "id": 534, "visit_count": 10148, "average_length": 813 },
+      { "id": 536, "visit_count": 7700, "average_length": 432 },
+      { "id": 0, "visit_count": 108955, "average_length": 678 }
+    ]
+  },
+  {
+    "time": "2020-02-03T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 10415, "average_length": 386 },
+      { "id": 383, "visit_count": 1908, "average_length": 1048 },
+      { "id": 384, "visit_count": 35483, "average_length": 383 },
+      { "id": 517, "visit_count": 10588, "average_length": 220 },
+      { "id": 518, "visit_count": 11048, "average_length": 740 },
+      { "id": 519, "visit_count": 22244, "average_length": 997 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 20144, "average_length": 783 },
+      { "id": 536, "visit_count": 6904, "average_length": 600 },
+      { "id": 0, "visit_count": 118735, "average_length": 573 }
+    ]
+  },
+  {
+    "time": "2020-02-10T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 9035, "average_length": 312 },
+      { "id": 383, "visit_count": 1468, "average_length": 1127 },
+      { "id": 384, "visit_count": 33509, "average_length": 379 },
+      { "id": 517, "visit_count": 16208, "average_length": 218 },
+      { "id": 518, "visit_count": 11516, "average_length": 783 },
+      { "id": 519, "visit_count": 20728, "average_length": 944 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 13204, "average_length": 757 },
+      { "id": 536, "visit_count": 6252, "average_length": 402 },
+      { "id": 0, "visit_count": 111921, "average_length": 547 }
+    ]
+  },
+  {
+    "time": "2020-02-17T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 8279, "average_length": 283 },
+      { "id": 383, "visit_count": 1481, "average_length": 1069 },
+      { "id": 384, "visit_count": 30789, "average_length": 419 },
+      { "id": 517, "visit_count": 15692, "average_length": 218 },
+      { "id": 518, "visit_count": 9848, "average_length": 773 },
+      { "id": 519, "visit_count": 18508, "average_length": 954 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 11316, "average_length": 997 },
+      { "id": 536, "visit_count": 5780, "average_length": 513 },
+      { "id": 0, "visit_count": 101693, "average_length": 581 }
+    ]
+  },
+  {
+    "time": "2020-02-24T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 2279, "average_length": 414 },
+      { "id": 383, "visit_count": 1344, "average_length": 1032 },
+      { "id": 384, "visit_count": 33689, "average_length": 396 },
+      { "id": 517, "visit_count": 14588, "average_length": 238 },
+      { "id": 518, "visit_count": 10916, "average_length": 759 },
+      { "id": 519, "visit_count": 20752, "average_length": 948 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 12248, "average_length": 832 },
+      { "id": 536, "visit_count": 6912, "average_length": 525 },
+      { "id": 0, "visit_count": 102728, "average_length": 571 }
+    ]
+  },
+  {
+    "time": "2020-03-02T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 9409, "average_length": 302 },
+      { "id": 383, "visit_count": 1227, "average_length": 1214 },
+      { "id": 384, "visit_count": 34105, "average_length": 447 },
+      { "id": 517, "visit_count": 7896, "average_length": 250 },
+      { "id": 518, "visit_count": 3332, "average_length": 782 },
+      { "id": 519, "visit_count": 21416, "average_length": 910 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 10996, "average_length": 873 },
+      { "id": 536, "visit_count": 6840, "average_length": 568 },
+      { "id": 0, "visit_count": 95222, "average_length": 594 }
+    ]
+  },
+  {
+    "time": "2020-03-09T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 6907, "average_length": 350 },
+      { "id": 383, "visit_count": 1405, "average_length": 1258 },
+      { "id": 384, "visit_count": 28826, "average_length": 381 },
+      { "id": 517, "visit_count": 5780, "average_length": 252 },
+      { "id": 518, "visit_count": 6040, "average_length": 795 },
+      { "id": 519, "visit_count": 4836, "average_length": 1328 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 9792, "average_length": 842 },
+      { "id": 536, "visit_count": 5360, "average_length": 674 },
+      { "id": 0, "visit_count": 68948, "average_length": 653 }
+    ]
+  },
+  {
+    "time": "2020-03-16T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 1705, "average_length": 585 },
+      { "id": 383, "visit_count": 485, "average_length": 1312 },
+      { "id": 384, "visit_count": 5762, "average_length": 458 },
+      { "id": 517, "visit_count": 484, "average_length": 402 },
+      { "id": 518, "visit_count": 3416, "average_length": 842 },
+      { "id": 519, "visit_count": 9796, "average_length": 949 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 1372, "average_length": 969 },
+      { "id": 536, "visit_count": 2020, "average_length": 758 },
+      { "id": 0, "visit_count": 25042, "average_length": 697 }
+    ]
+  },
+  {
+    "time": "2020-03-23T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 1052, "average_length": 497 },
+      { "id": 383, "visit_count": 195, "average_length": 1057 },
+      { "id": 384, "visit_count": 99, "average_length": 316 },
+      { "id": 517, "visit_count": 104, "average_length": 158 },
+      { "id": 518, "visit_count": 2448, "average_length": 1037 },
+      { "id": 519, "visit_count": 5944, "average_length": 880 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 1220, "average_length": 752 },
+      { "id": 536, "visit_count": 1612, "average_length": 1411 },
+      { "id": 0, "visit_count": 12675, "average_length": 678 }
+    ]
+  },
+  {
+    "time": "2020-03-30T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1104, "average_length": 403 },
+      { "id": 383, "visit_count": 139, "average_length": 1712 },
+      { "id": 384, "visit_count": 130, "average_length": 737 },
+      { "id": 517, "visit_count": 32, "average_length": 151 },
+      { "id": 518, "visit_count": 1860, "average_length": 914 },
+      { "id": 519, "visit_count": 2844, "average_length": 930 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 724, "average_length": 1066 },
+      { "id": 536, "visit_count": 1452, "average_length": 1127 },
+      { "id": 0, "visit_count": 8285, "average_length": 782 }
+    ]
+  },
+  {
+    "time": "2020-04-06T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 828, "average_length": 495 },
+      { "id": 383, "visit_count": 114, "average_length": 955 },
+      { "id": 384, "visit_count": 80, "average_length": 821 },
+      { "id": 517, "visit_count": 44, "average_length": 270 },
+      { "id": 518, "visit_count": 1548, "average_length": 1154 },
+      { "id": 519, "visit_count": 1700, "average_length": 744 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 532, "average_length": 1657 },
+      { "id": 536, "visit_count": 940, "average_length": 1192 },
+      { "id": 0, "visit_count": 5787, "average_length": 810 }
+    ]
+  },
+  {
+    "time": "2020-04-13T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 892, "average_length": 650 },
+      { "id": 383, "visit_count": 158, "average_length": 1059 },
+      { "id": 384, "visit_count": 55, "average_length": 87 },
+      { "id": 517, "visit_count": 12, "average_length": 53 },
+      { "id": 518, "visit_count": 656, "average_length": 806 },
+      { "id": 519, "visit_count": 1588, "average_length": 602 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 580, "average_length": 1096 },
+      { "id": 536, "visit_count": 1216, "average_length": 1260 },
+      { "id": 0, "visit_count": 5158, "average_length": 624 }
+    ]
+  },
+  {
+    "time": "2020-04-20T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1951, "average_length": 638 },
+      { "id": 383, "visit_count": 253, "average_length": 1258 },
+      { "id": 384, "visit_count": 131, "average_length": 680 },
+      { "id": 517, "visit_count": 180, "average_length": 273 },
+      { "id": 518, "visit_count": 1828, "average_length": 906 },
+      { "id": 519, "visit_count": 2692, "average_length": 678 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 836, "average_length": 773 },
+      { "id": 536, "visit_count": 1360, "average_length": 990 },
+      { "id": 0, "visit_count": 9232, "average_length": 688 }
+    ]
+  },
+  {
+    "time": "2020-04-27T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1429, "average_length": 556 },
+      { "id": 383, "visit_count": 244, "average_length": 1818 },
+      { "id": 384, "visit_count": 1022, "average_length": 443 },
+      { "id": 517, "visit_count": 1620, "average_length": 30 },
+      { "id": 518, "visit_count": 1818, "average_length": 770 },
+      { "id": 519, "visit_count": 3472, "average_length": 553 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 788, "average_length": 818 },
+      { "id": 536, "visit_count": 1468, "average_length": 968 },
+      { "id": 0, "visit_count": 11862, "average_length": 662 }
+    ]
+  },
+  {
+    "time": "2020-05-04T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1913, "average_length": 650 },
+      { "id": 383, "visit_count": 245, "average_length": 1826 },
+      { "id": 384, "visit_count": 971, "average_length": 275 },
+      { "id": 517, "visit_count": 1116, "average_length": 245 },
+      { "id": 518, "visit_count": 2360, "average_length": 850 },
+      { "id": 519, "visit_count": 2764, "average_length": 654 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 852, "average_length": 710 },
+      { "id": 536, "visit_count": 2248, "average_length": 1058 },
+      { "id": 0, "visit_count": 12470, "average_length": 696 }
+    ]
+  },
+  {
+    "time": "2020-05-11T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1958, "average_length": 390 },
+      { "id": 383, "visit_count": 290, "average_length": 1782 },
+      { "id": 384, "visit_count": 1568, "average_length": 359 },
+      { "id": 517, "visit_count": 1592, "average_length": 675 },
+      { "id": 518, "visit_count": 2204, "average_length": 779 },
+      { "id": 519, "visit_count": 4068, "average_length": 867 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 796, "average_length": 669 },
+      { "id": 536, "visit_count": 2272, "average_length": 1340 },
+      { "id": 0, "visit_count": 14749, "average_length": 762 }
+    ]
+  },
+  {
+    "time": "2020-05-18T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1855, "average_length": 318 },
+      { "id": 383, "visit_count": 307, "average_length": 1212 },
+      { "id": 384, "visit_count": 980, "average_length": 387 },
+      { "id": 517, "visit_count": 648, "average_length": 30 },
+      { "id": 518, "visit_count": 2860, "average_length": 914 },
+      { "id": 519, "visit_count": 2544, "average_length": 1185 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 784, "average_length": 507 },
+      { "id": 536, "visit_count": 1600, "average_length": 1013 },
+      { "id": 0, "visit_count": 11579, "average_length": 618 }
+    ]
+  },
+  {
+    "time": "2020-05-25T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 2178, "average_length": 461 },
+      { "id": 383, "visit_count": 427, "average_length": 1024 },
+      { "id": 384, "visit_count": 183, "average_length": 30 },
+      { "id": 517, "visit_count": 168, "average_length": 660 },
+      { "id": 518, "visit_count": 1684, "average_length": 834 },
+      { "id": 519, "visit_count": 3538, "average_length": 824 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 678, "average_length": 572 },
+      { "id": 536, "visit_count": 2424, "average_length": 835 },
+      { "id": 0, "visit_count": 11281, "average_length": 582 }
+    ]
+  },
+  {
+    "time": "2020-06-01T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1739, "average_length": 466 },
+      { "id": 383, "visit_count": 545, "average_length": 1127 },
+      { "id": 384, "visit_count": 112, "average_length": 345 },
+      { "id": 517, "visit_count": 80, "average_length": 30 },
+      { "id": 518, "visit_count": 2188, "average_length": 852 },
+      { "id": 519, "visit_count": 2456, "average_length": 625 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 836, "average_length": 603 },
+      { "id": 536, "visit_count": 2752, "average_length": 889 },
+      { "id": 0, "visit_count": 10710, "average_length": 548 }
+    ]
+  },
+  {
+    "time": "2020-06-08T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 866, "average_length": 760 },
+      { "id": 383, "visit_count": 624, "average_length": 1111 },
+      { "id": 384, "visit_count": 76, "average_length": 410 },
+      { "id": 517, "visit_count": 136, "average_length": 1020 },
+      { "id": 518, "visit_count": 2439, "average_length": 803 },
+      { "id": 519, "visit_count": 368, "average_length": 482 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 636, "average_length": 550 },
+      { "id": 536, "visit_count": 1306, "average_length": 795 },
+      { "id": 0, "visit_count": 6452, "average_length": 659 }
+    ]
+  },
+  {
+    "time": "2020-06-15T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 667, "average_length": 601 },
+      { "id": 383, "visit_count": 480, "average_length": 965 },
+      { "id": 384, "visit_count": 200, "average_length": 345 },
+      { "id": 517, "visit_count": 540, "average_length": 313 },
+      { "id": 518, "visit_count": 1257, "average_length": 710 },
+      { "id": 519, "visit_count": 456, "average_length": 302 },
+      { "id": 520, "visit_count": 8, "average_length": 165 },
+      { "id": 534, "visit_count": 460, "average_length": 728 },
+      { "id": 536, "visit_count": 1544, "average_length": 165 },
+      { "id": 0, "visit_count": 5613, "average_length": 477 }
+    ]
+  },
+  {
+    "time": "2020-06-22T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 736, "average_length": 798 },
+      { "id": 383, "visit_count": 613, "average_length": 1133 },
+      { "id": 384, "visit_count": 616, "average_length": 30 },
+      { "id": 517, "visit_count": 1008, "average_length": 599 },
+      { "id": 518, "visit_count": 1748, "average_length": 511 },
+      { "id": 519, "visit_count": 328, "average_length": 758 },
+      { "id": 520, "visit_count": 8, "average_length": 0 },
+      { "id": 534, "visit_count": 756, "average_length": 592 },
+      { "id": 536, "visit_count": 1762, "average_length": 0 },
+      { "id": 0, "visit_count": 7575, "average_length": 491 }
+    ]
+  },
+  {
+    "time": "2020-06-29T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 228, "average_length": 172 },
+      { "id": 383, "visit_count": 449, "average_length": 1521 },
+      { "id": 384, "visit_count": 968, "average_length": 112 },
+      { "id": 517, "visit_count": 656, "average_length": 989 },
+      { "id": 518, "visit_count": 1933, "average_length": 774 },
+      { "id": 519, "visit_count": 1210, "average_length": 482 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 756, "average_length": 726 },
+      { "id": 536, "visit_count": 1362, "average_length": 0 },
+      { "id": 0, "visit_count": 7564, "average_length": 530 }
+    ]
+  },
+  {
+    "time": "2020-07-06T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 184, "average_length": 669 },
+      { "id": 383, "visit_count": 212, "average_length": 831 },
+      { "id": 384, "visit_count": 874, "average_length": 37 },
+      { "id": 517, "visit_count": 496, "average_length": 440 },
+      { "id": 518, "visit_count": 1152, "average_length": 732 },
+      { "id": 519, "visit_count": 220, "average_length": 908 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 264, "average_length": 59 },
+      { "id": 536, "visit_count": 1282, "average_length": 0 },
+      { "id": 0, "visit_count": 4685, "average_length": 408 }
+    ]
+  },
+  {
+    "time": "2020-07-13T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 302, "average_length": 75 },
+      { "id": 383, "visit_count": 223, "average_length": 622 },
+      { "id": 384, "visit_count": 593, "average_length": 833 },
+      { "id": 517, "visit_count": 440, "average_length": 874 },
+      { "id": 518, "visit_count": 1776, "average_length": 691 },
+      { "id": 519, "visit_count": 296, "average_length": 242 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 478, "average_length": 30 },
+      { "id": 536, "visit_count": 1926, "average_length": 0 },
+      { "id": 0, "visit_count": 6035, "average_length": 374 }
+    ]
+  },
+  {
+    "time": "2020-07-20T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 295, "average_length": 326 },
+      { "id": 383, "visit_count": 147, "average_length": 1196 },
+      { "id": 384, "visit_count": 680, "average_length": 822 },
+      { "id": 517, "visit_count": 358, "average_length": 357 },
+      { "id": 518, "visit_count": 1961, "average_length": 621 },
+      { "id": 519, "visit_count": 176, "average_length": 484 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 341, "average_length": 0 },
+      { "id": 536, "visit_count": 2830, "average_length": 0 },
+      { "id": 0, "visit_count": 6788, "average_length": 423 }
+    ]
+  },
+  {
+    "time": "2020-07-27T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 204, "average_length": 165 },
+      { "id": 383, "visit_count": 250, "average_length": 892 },
+      { "id": 384, "visit_count": 297, "average_length": 179 },
+      { "id": 517, "visit_count": 304, "average_length": 906 },
+      { "id": 518, "visit_count": 1909, "average_length": 897 },
+      { "id": 519, "visit_count": 348, "average_length": 1826 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 447, "average_length": 128 },
+      { "id": 536, "visit_count": 2768, "average_length": 0 },
+      { "id": 0, "visit_count": 6529, "average_length": 555 }
+    ]
+  },
+  {
+    "time": "2020-08-03T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 656, "average_length": 1157 },
+      { "id": 383, "visit_count": 151, "average_length": 2594 },
+      { "id": 384, "visit_count": 213, "average_length": 551 },
+      { "id": 517, "visit_count": 480, "average_length": 190 },
+      { "id": 518, "visit_count": 2248, "average_length": 933 },
+      { "id": 519, "visit_count": 276, "average_length": 426 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 359, "average_length": 56 },
+      { "id": 536, "visit_count": 2059, "average_length": 0 },
+      { "id": 0, "visit_count": 6442, "average_length": 656 }
+    ]
+  },
+  {
+    "time": "2020-08-10T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 664, "average_length": 1115 },
+      { "id": 383, "visit_count": 453, "average_length": 1758 },
+      { "id": 384, "visit_count": 399, "average_length": 393 },
+      { "id": 517, "visit_count": 1428, "average_length": 542 },
+      { "id": 518, "visit_count": 2679, "average_length": 757 },
+      { "id": 519, "visit_count": 816, "average_length": 1041 },
+      { "id": 520, "visit_count": 8, "average_length": 0 },
+      { "id": 534, "visit_count": 560, "average_length": 567 },
+      { "id": 536, "visit_count": 1644, "average_length": 0 },
+      { "id": 0, "visit_count": 8651, "average_length": 686 }
+    ]
+  },
+  {
+    "time": "2020-08-17T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 1475, "average_length": 648 },
+      { "id": 383, "visit_count": 573, "average_length": 1213 },
+      { "id": 384, "visit_count": 2114, "average_length": 191 },
+      { "id": 517, "visit_count": 1908, "average_length": 273 },
+      { "id": 518, "visit_count": 2582, "average_length": 837 },
+      { "id": 519, "visit_count": 1600, "average_length": 1068 },
+      { "id": 520, "visit_count": 8, "average_length": 0 },
+      { "id": 534, "visit_count": 852, "average_length": 422 },
+      { "id": 536, "visit_count": 1762, "average_length": 0 },
+      { "id": 0, "visit_count": 12874, "average_length": 517 }
+    ]
+  },
+  {
+    "time": "2020-08-24T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 2643, "average_length": 473 },
+      { "id": 383, "visit_count": 732, "average_length": 825 },
+      { "id": 384, "visit_count": 4181, "average_length": 800 },
+      { "id": 517, "visit_count": 3068, "average_length": 184 },
+      { "id": 518, "visit_count": 3880, "average_length": 864 },
+      { "id": 519, "visit_count": 4672, "average_length": 847 },
+      { "id": 520, "visit_count": 8, "average_length": 0 },
+      { "id": 534, "visit_count": 1108, "average_length": 570 },
+      { "id": 536, "visit_count": 1894, "average_length": 0 },
+      { "id": 0, "visit_count": 22187, "average_length": 507 }
+    ]
+  },
+  {
+    "time": "2020-08-31T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 5691, "average_length": 326 },
+      { "id": 383, "visit_count": 606, "average_length": 702 },
+      { "id": 384, "visit_count": 8862, "average_length": 500 },
+      { "id": 517, "visit_count": 1320, "average_length": 138 },
+      { "id": 518, "visit_count": 2060, "average_length": 832 },
+      { "id": 519, "visit_count": 4528, "average_length": 589 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 980, "average_length": 729 },
+      { "id": 536, "visit_count": 1654, "average_length": 0 },
+      { "id": 0, "visit_count": 25702, "average_length": 424 }
+    ]
+  },
+  {
+    "time": "2020-09-07T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 4748, "average_length": 374 },
+      { "id": 383, "visit_count": 586, "average_length": 1000 },
+      { "id": 384, "visit_count": 10607, "average_length": 495 },
+      { "id": 517, "visit_count": 2084, "average_length": 379 },
+      { "id": 518, "visit_count": 3897, "average_length": 947 },
+      { "id": 519, "visit_count": 804, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 1320, "average_length": 573 },
+      { "id": 536, "visit_count": 2068, "average_length": 0 },
+      { "id": 0, "visit_count": 26114, "average_length": 418 }
+    ]
+  },
+  {
+    "time": "2020-09-14T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 4205, "average_length": 429 },
+      { "id": 383, "visit_count": 899, "average_length": 896 },
+      { "id": 384, "visit_count": 9940, "average_length": 443 },
+      { "id": 517, "visit_count": 1774, "average_length": 191 },
+      { "id": 518, "visit_count": 3809, "average_length": 828 },
+      { "id": 519, "visit_count": 34, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 1208, "average_length": 461 },
+      { "id": 536, "visit_count": 1250, "average_length": 0 },
+      { "id": 0, "visit_count": 23120, "average_length": 361 }
+    ]
+  },
+  {
+    "time": "2020-09-21T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 3739, "average_length": 407 },
+      { "id": 383, "visit_count": 597, "average_length": 960 },
+      { "id": 384, "visit_count": 8952, "average_length": 437 },
+      { "id": 517, "visit_count": 1393, "average_length": 177 },
+      { "id": 518, "visit_count": 4715, "average_length": 844 },
+      { "id": 519, "visit_count": 540, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 1332, "average_length": 553 },
+      { "id": 536, "visit_count": 2771, "average_length": 0 },
+      { "id": 0, "visit_count": 24040, "average_length": 375 }
+    ]
+  },
+  {
+    "time": "2020-09-28T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 3598, "average_length": 409 },
+      { "id": 383, "visit_count": 520, "average_length": 1280 },
+      { "id": 384, "visit_count": 7816, "average_length": 451 },
+      { "id": 517, "visit_count": 992, "average_length": 339 },
+      { "id": 518, "visit_count": 3236, "average_length": 765 },
+      { "id": 519, "visit_count": 352, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 1176, "average_length": 488 },
+      { "id": 536, "visit_count": 1543, "average_length": 0 },
+      { "id": 0, "visit_count": 19234, "average_length": 414 }
+    ]
+  },
+  {
+    "time": "2020-10-05T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 3790, "average_length": 321 },
+      { "id": 383, "visit_count": 614, "average_length": 700 },
+      { "id": 384, "visit_count": 6917, "average_length": 459 },
+      { "id": 517, "visit_count": 644, "average_length": 346 },
+      { "id": 518, "visit_count": 4209, "average_length": 795 },
+      { "id": 519, "visit_count": 408, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 1252, "average_length": 503 },
+      { "id": 536, "visit_count": 754, "average_length": 0 },
+      { "id": 0, "visit_count": 18588, "average_length": 347 }
+    ]
+  },
+  {
+    "time": "2020-10-12T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 2825, "average_length": 405 },
+      { "id": 383, "visit_count": 544, "average_length": 864 },
+      { "id": 384, "visit_count": 6310, "average_length": 426 },
+      { "id": 517, "visit_count": 552, "average_length": 525 },
+      { "id": 518, "visit_count": 3141, "average_length": 783 },
+      { "id": 519, "visit_count": 2712, "average_length": 0 },
+      { "id": 520, "visit_count": 8, "average_length": 0 },
+      { "id": 534, "visit_count": 1308, "average_length": 679 },
+      { "id": 536, "visit_count": 1061, "average_length": 0 },
+      { "id": 0, "visit_count": 18463, "average_length": 409 }
+    ]
+  },
+  {
+    "time": "2020-10-19T00:00:00+02:00",
+    "areas": [
+      { "id": 380, "visit_count": 2538, "average_length": 322 },
+      { "id": 383, "visit_count": 488, "average_length": 1005 },
+      { "id": 384, "visit_count": 6909, "average_length": 368 },
+      { "id": 517, "visit_count": 800, "average_length": 265 },
+      { "id": 518, "visit_count": 3347, "average_length": 790 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 1392, "average_length": 600 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 15474, "average_length": 372 }
+    ]
+  },
+  {
+    "time": "2020-10-26T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 2151, "average_length": 359 },
+      { "id": 383, "visit_count": 394, "average_length": 783 },
+      { "id": 384, "visit_count": 5855, "average_length": 390 },
+      { "id": 517, "visit_count": 748, "average_length": 982 },
+      { "id": 518, "visit_count": 3134, "average_length": 803 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 912, "average_length": 594 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 13195, "average_length": 434 }
+    ]
+  },
+  {
+    "time": "2020-11-02T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 2213, "average_length": 276 },
+      { "id": 383, "visit_count": 230, "average_length": 763 },
+      { "id": 384, "visit_count": 4014, "average_length": 348 },
+      { "id": 517, "visit_count": 400, "average_length": 240 },
+      { "id": 518, "visit_count": 2278, "average_length": 785 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 968, "average_length": 713 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 10104, "average_length": 347 }
+    ]
+  },
+  {
+    "time": "2020-11-09T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 1568, "average_length": 286 },
+      { "id": 383, "visit_count": 263, "average_length": 1021 },
+      { "id": 384, "visit_count": 2493, "average_length": 387 },
+      { "id": 517, "visit_count": 600, "average_length": 473 },
+      { "id": 518, "visit_count": 3180, "average_length": 795 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 728, "average_length": 819 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 8833, "average_length": 420 }
+    ]
+  },
+  {
+    "time": "2020-11-16T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 1509, "average_length": 233 },
+      { "id": 383, "visit_count": 227, "average_length": 509 },
+      { "id": 384, "visit_count": 2426, "average_length": 466 },
+      { "id": 517, "visit_count": 384, "average_length": 406 },
+      { "id": 518, "visit_count": 2166, "average_length": 806 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 584, "average_length": 1243 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 7297, "average_length": 407 }
+    ]
+  },
+  {
+    "time": "2020-11-23T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 1458, "average_length": 272 },
+      { "id": 383, "visit_count": 141, "average_length": 677 },
+      { "id": 384, "visit_count": 2838, "average_length": 403 },
+      { "id": 517, "visit_count": 364, "average_length": 300 },
+      { "id": 518, "visit_count": 3654, "average_length": 565 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 696, "average_length": 517 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 9152, "average_length": 304 }
+    ]
+  },
+  {
+    "time": "2020-11-30T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 1089, "average_length": 140 },
+      { "id": 383, "visit_count": 155, "average_length": 334 },
+      { "id": 384, "visit_count": 2393, "average_length": 404 },
+      { "id": 517, "visit_count": 344, "average_length": 669 },
+      { "id": 518, "visit_count": 2795, "average_length": 733 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 696, "average_length": 802 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 7474, "average_length": 342 }
+    ]
+  },
+  {
+    "time": "2020-12-07T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 447, "average_length": 272 },
+      { "id": 383, "visit_count": 384, "average_length": 704 },
+      { "id": 384, "visit_count": 2543, "average_length": 386 },
+      { "id": 517, "visit_count": 112, "average_length": 34 },
+      { "id": 518, "visit_count": 2746, "average_length": 592 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 932, "average_length": 675 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 7165, "average_length": 296 }
+    ]
+  },
+  {
+    "time": "2020-12-14T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 700, "average_length": 0 },
+      { "id": 383, "visit_count": 438, "average_length": 489 },
+      { "id": 384, "visit_count": 2341, "average_length": 313 },
+      { "id": 517, "visit_count": 156, "average_length": 63 },
+      { "id": 518, "visit_count": 1914, "average_length": 876 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 728, "average_length": 863 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 6277, "average_length": 289 }
+    ]
+  },
+  {
+    "time": "2020-12-21T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 719, "average_length": 0 },
+      { "id": 383, "visit_count": 60, "average_length": 685 },
+      { "id": 384, "visit_count": 1229, "average_length": 267 },
+      { "id": 517, "visit_count": 4, "average_length": 30 },
+      { "id": 518, "visit_count": 1440, "average_length": 1162 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 348, "average_length": 773 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 3801, "average_length": 324 }
+    ]
+  },
+  {
+    "time": "2020-12-28T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 804, "average_length": 0 },
+      { "id": 383, "visit_count": 77, "average_length": 326 },
+      { "id": 384, "visit_count": 1325, "average_length": 436 },
+      { "id": 517, "visit_count": 8, "average_length": 30 },
+      { "id": 518, "visit_count": 1364, "average_length": 908 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 332, "average_length": 778 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 3910, "average_length": 275 }
+    ]
+  },
+  {
+    "time": "2021-01-04T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 1128, "average_length": 0 },
+      { "id": 383, "visit_count": 99, "average_length": 962 },
+      { "id": 384, "visit_count": 1373, "average_length": 378 },
+      { "id": 517, "visit_count": 20, "average_length": 30 },
+      { "id": 518, "visit_count": 1632, "average_length": 693 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 448, "average_length": 788 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 4700, "average_length": 316 }
+    ]
+  },
+  {
+    "time": "2021-01-11T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 787, "average_length": 0 },
+      { "id": 383, "visit_count": 294, "average_length": 532 },
+      { "id": 384, "visit_count": 1542, "average_length": 394 },
+      { "id": 517, "visit_count": 152, "average_length": 174 },
+      { "id": 518, "visit_count": 2580, "average_length": 517 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 676, "average_length": 821 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 6032, "average_length": 271 }
+    ]
+  },
+  {
+    "time": "2021-01-18T00:00:00+01:00",
+    "areas": [
+      { "id": 380, "visit_count": 274, "average_length": 0 },
+      { "id": 383, "visit_count": 212, "average_length": 856 },
+      { "id": 384, "visit_count": 1601, "average_length": 682 },
+      { "id": 517, "visit_count": 52, "average_length": 33 },
+      { "id": 518, "visit_count": 1628, "average_length": 571 },
+      { "id": 519, "visit_count": 0, "average_length": 0 },
+      { "id": 520, "visit_count": 0, "average_length": 0 },
+      { "id": 534, "visit_count": 644, "average_length": 877 },
+      { "id": 536, "visit_count": 0, "average_length": 0 },
+      { "id": 0, "visit_count": 4411, "average_length": 335 }
+    ]
+  }
+]
