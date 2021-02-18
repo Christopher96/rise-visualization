@@ -1,4 +1,11 @@
-import React, { useContext, useEffect, useLayoutEffect, useRef } from "react";
+import Modal from "antd/lib/modal/Modal";
+import React, {
+  useContext,
+  useEffect,
+  useLayoutEffect,
+  useRef,
+  useState,
+} from "react";
 import Context from "../context";
 import Model from "../model/Model";
 
@@ -148,6 +155,19 @@ function createMap(current: HTMLDivElement) {
 export default function Heatmap() {
   const context = useContext(Context);
 
+  const [isModalVisible, setIsModalVisible] = useState(false);
+
+  const showModal = () => {
+    setIsModalVisible(true);
+  };
+
+  const handleOk = () => {
+    setIsModalVisible(false);
+  };
+
+  const handleCancel = () => {
+    setIsModalVisible(false);
+  };
   useEffect(() => {
     context?.setPage("heatmap");
   });
@@ -162,6 +182,16 @@ export default function Heatmap() {
   return (
     <>
       <div id="map" ref={mapRef}></div>
+      <Modal
+        title="Basic Modal"
+        visible={isModalVisible}
+        onOk={handleOk}
+        onCancel={handleCancel}
+      >
+        <p>Some contents...</p>
+        <p>Some contents...</p>
+        <p>Some contents...</p>
+      </Modal>
     </>
   );
 }
