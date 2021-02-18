@@ -1,5 +1,8 @@
+import areas from "./areas.json";
+import stats from "./stats.json";
+
 class Model {
-  API = "localhost:8000/";
+  API = "http://api.bumbeelabs.com/v1/public/102";
 
   processResponse(response: any) {
     if (response.code === 500)
@@ -13,6 +16,14 @@ class Model {
         error,
       };
     });
+  }
+
+  getAreas() {
+    return areas;
+  }
+
+  getStats() {
+    return stats;
   }
 
   get(path: string) {
