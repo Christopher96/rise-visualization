@@ -31,7 +31,7 @@ function App() {
                 <Route path="/heatmap" component={Heatmap} />
                 <Route path="/timespent" component={Timespent} />
                 <Route path="/activity" component={Activity} />
-                <Route component={NotFound} />
+                <Route component={Heatmap} />
               </Switch>
             </Route>
           </Content>

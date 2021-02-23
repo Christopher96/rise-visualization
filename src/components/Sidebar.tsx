@@ -14,14 +14,14 @@ export default function Sidebar() {
 
   const menu = [
     {
-      page: "timespent",
-      path: "/timespent",
-      icon: <HomeOutlined />,
-    },
-    {
       page: "heatmap",
       path: "/heatmap",
       icon: <CloudUploadOutlined />,
+    },
+    {
+      page: "timespent",
+      path: "/timespent",
+      icon: <HomeOutlined />,
     },
     {
       page: "activity",

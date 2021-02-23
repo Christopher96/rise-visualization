@@ -1,4 +1,5 @@
 import React, { useContext, useEffect } from "react";
+import Staples from "../components/Staples";
 import Context from "../context";
 
 export default function Activity() {
@@ -10,7 +11,7 @@ export default function Activity() {
 
   return (
     <div>
-      <p>Activity</p>
+      <Staples />
     </div>
   );
 }
